@@ -18,6 +18,7 @@
   "homepage": "https://github.com/haywirelabs/haywirelabs",
   "devDependencies": {
     "assemble": "^0.4.37",
-    "grunt": "^0.4.4"
+    "grunt": "^0.4.4",
+    "grunt-newer": "^0.7.0"
   }
 }
