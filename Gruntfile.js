@@ -19,5 +19,5 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('assemble');
   grunt.loadNpmTasks('grunt-newer');
 
-  grunt.registerTask('default', ['assemble']);
+  grunt.registerTask('default', ['newer:assemble']);
 };
